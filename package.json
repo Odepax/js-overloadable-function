@@ -1,0 +1,14 @@
+{
+  "name": "javascript-overloadable-function",
+  "version": "0.0.1",
+  "description": "Simple function overloading implementation with JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "Odepax",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
